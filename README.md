@@ -117,7 +117,7 @@ We all need support and motivation. `BookByte` is not an exception. Please give 
 
 If you found the app helpful, consider supporting us with a coffee.
 
-<a href="https://www.buymeacoffee.com/greenroots">
+<a>
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50px">
 </a>
 
